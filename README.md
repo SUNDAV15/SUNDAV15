@@ -2,7 +2,7 @@
 - 👀 I’m interested in puzzles
 - 🌱 I’m currently learning about how to implement LLM models un life science space.
 - 💞️ I’m looking to collaborate on Data Migration projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... Teams / Email
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Love to spend time outdoors
 
